@@ -146,6 +146,8 @@ F) Add unit tests and Integration tests for each functionality.
 
 G) Add basic authentication for the app. Use environment variables or basic auth(for rest APIs)
 
+    Had added token based authentication in the local setup, failed the replicate same in Heroku environment.
+
 
 H) The code should scale out for millions of contacts per contact book.
 
